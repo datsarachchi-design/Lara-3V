@@ -1,7 +1,7 @@
 {
   "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "description": "LARA-M·",
+  "logo": "https://ibb.co/wFVmvqd6.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,15 +14,15 @@
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "94762747158",
       "required": true,
-      "value": "94779062397"
+      "value": "94762747158"
     },
 
     "DEV": {
-      "description": "Bot Developer Numeber",
+      "description": "94762747158",
       "required": true,
-      "value": "94779062397"
+      "value": "94762747158"
     },
     
     "PREFIX": {
@@ -63,18 +63,18 @@
     
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
-      "required": true,
+      "required": false,
       "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
     },
     
     "AUTO_STATUS_REACT": {
-      "description": "Make it tru status auto react to any emojis",
+      "description": "👽",
       "required": true,
       "value": "true"
     },
 
     "AUTO_BIO": {
-      "description": "Make it true if you want bot auto bio",
+      "description": "🐰  수디파  수바후 💀┃❕👅",
       "required": true,
       "value": "true"
     },
@@ -105,9 +105,8 @@
     
       "CUSTOM_REACT_EMOJIS": {
       "description": "Custome react emojis.",
-      "required": true,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
-    },
+      "required": false,
+      "value": "👽",
     
     "ANTI_LINK": {
       "description": "Group link shear not allowed and kick out user",
@@ -123,7 +122,7 @@
     
     "READ_MESSAGE": {
       "description": "Auto read new messages",
-      "required": true,
+      "required": false,
       "value": "false"
     },
     
